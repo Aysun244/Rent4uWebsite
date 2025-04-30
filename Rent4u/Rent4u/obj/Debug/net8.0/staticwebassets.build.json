@@ -1,0 +1,4760 @@
+{
+  "Version": 1,
+  "Hash": "DvbeSnMiF6z77gHv/XTC2015BSVhC+nKdcioP6mtw9Q=",
+  "Source": "Rent4u",
+  "BasePath": "_content/Rent4u",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "Rent4u\\wwwroot",
+      "Source": "Rent4u",
+      "ContentRoot": "C:\\Users\\User\\Desktop\\Rent4uWebsite\\Rent4u\\Rent4u\\wwwroot\\",
+      "BasePath": "_content/Rent4u",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\User\\Desktop\\Rent4uWebsite\\Rent4u\\Rent4u\\wwwroot\\css\\bootstrap.css",
+      "SourceId": "Rent4u",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\User\\Desktop\\Rent4uWebsite\\Rent4u\\Rent4u\\wwwroot\\",
+      "BasePath": "_content/Rent4u",
+      "RelativePath": "css/bootstrap#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "zuvuklkj3l",
+      "Integrity": "Nfu23DiRqsrx/6B6vsI0T9vEVKq1M6KgO8+TV363g3s=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\bootstrap.css"
+    },
+    {
+      "Identity": "C:\\Users\\User\\Desktop\\Rent4uWebsite\\Rent4u\\Rent4u\\wwwroot\\css\\responsive.css",
+      "SourceId": "Rent4u",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\User\\Desktop\\Rent4uWebsite\\Rent4u\\Rent4u\\wwwroot\\",
+      "BasePath": "_content/Rent4u",
+      "RelativePath": "css/responsive#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "xxyd01a897",
+      "Integrity": "28lNxYHIe4jPRY5rAaDMdqBg+TwgXdyYxdEmmWA4DN8=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\responsive.css"
+    },
+    {
+      "Identity": "C:\\Users\\User\\Desktop\\Rent4uWebsite\\Rent4u\\Rent4u\\wwwroot\\css\\style.css",
+      "SourceId": "Rent4u",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\User\\Desktop\\Rent4uWebsite\\Rent4u\\Rent4u\\wwwroot\\",
+      "BasePath": "_content/Rent4u",
+      "RelativePath": "css/style#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "0l29voltsi",
+      "Integrity": "VOTtaTrL1JN2AGTiaI5HlykwZbxQd9FCqlNNUEA3L1k=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\style.css"
+    },
+    {
+      "Identity": "C:\\Users\\User\\Desktop\\Rent4uWebsite\\Rent4u\\Rent4u\\wwwroot\\css\\style.css.map",
+      "SourceId": "Rent4u",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\User\\Desktop\\Rent4uWebsite\\Rent4u\\Rent4u\\wwwroot\\",
+      "BasePath": "_content/Rent4u",
+      "RelativePath": "css/style.css#[.{fingerprint}]?.map",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "toqeeyfgx5",
+      "Integrity": "nQTGboqLfckfGgAzySBhF8rI2X3HdPFH8OYfA/vU0eM=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\style.css.map"
+    },
+    {
+      "Identity": "C:\\Users\\User\\Desktop\\Rent4uWebsite\\Rent4u\\Rent4u\\wwwroot\\css\\style.scss",
+      "SourceId": "Rent4u",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\User\\Desktop\\Rent4uWebsite\\Rent4u\\Rent4u\\wwwroot\\",
+      "BasePath": "_content/Rent4u",
+      "RelativePath": "css/style#[.{fingerprint}]?.scss",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "7bbtk2p873",
+      "Integrity": "g0roGW+T1IAkmelwCnE9wzsFs3MAqt0EHiNBHN24Vdo=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\style.scss"
+    },
+    {
+      "Identity": "C:\\Users\\User\\Desktop\\Rent4uWebsite\\Rent4u\\Rent4u\\wwwroot\\images\\about-img.png",
+      "SourceId": "Rent4u",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\User\\Desktop\\Rent4uWebsite\\Rent4u\\Rent4u\\wwwroot\\",
+      "BasePath": "_content/Rent4u",
+      "RelativePath": "images/about-img#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "vbyztkj3wr",
+      "Integrity": "i5U6AsWbDV5VFisWpQNw8I7W9NhRbiruYQSXS0dRyP4=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\about-img.png"
+    },
+    {
+      "Identity": "C:\\Users\\User\\Desktop\\Rent4uWebsite\\Rent4u\\Rent4u\\wwwroot\\images\\b-1.jpg",
+      "SourceId": "Rent4u",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\User\\Desktop\\Rent4uWebsite\\Rent4u\\Rent4u\\wwwroot\\",
+      "BasePath": "_content/Rent4u",
+      "RelativePath": "images/b-1#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "1y13x6vk28",
+      "Integrity": "mbVhXydXRllmdQTxbiM+7czRmR8b6zCwf6v5arnMhQ4=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\b-1.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\User\\Desktop\\Rent4uWebsite\\Rent4u\\Rent4u\\wwwroot\\images\\b-2.jpg",
+      "SourceId": "Rent4u",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\User\\Desktop\\Rent4uWebsite\\Rent4u\\Rent4u\\wwwroot\\",
+      "BasePath": "_content/Rent4u",
+      "RelativePath": "images/b-2#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "bmxg42i6mu",
+      "Integrity": "M3q6SiEjXylt9WrYMfW4HUQSoLmmhS/xlFmpzajEDxg=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\b-2.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\User\\Desktop\\Rent4uWebsite\\Rent4u\\Rent4u\\wwwroot\\images\\b-3.jpg",
+      "SourceId": "Rent4u",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\User\\Desktop\\Rent4uWebsite\\Rent4u\\Rent4u\\wwwroot\\",
+      "BasePath": "_content/Rent4u",
+      "RelativePath": "images/b-3#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "1hylg2dxmq",
+      "Integrity": "O/ZIjFqgKOGoEGCw32Egm7qnjsq8jgKxsoM/A7zykb4=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\b-3.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\User\\Desktop\\Rent4uWebsite\\Rent4u\\Rent4u\\wwwroot\\images\\book-car.png",
+      "SourceId": "Rent4u",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\User\\Desktop\\Rent4uWebsite\\Rent4u\\Rent4u\\wwwroot\\",
+      "BasePath": "_content/Rent4u",
+      "RelativePath": "images/book-car#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "hckuoef4kh",
+      "Integrity": "fz0b6GMpxcmUfmkgTyfGXJShRIkkKDjYGhka5CUsQvI=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\book-car.png"
+    },
+    {
+      "Identity": "C:\\Users\\User\\Desktop\\Rent4uWebsite\\Rent4u\\Rent4u\\wwwroot\\images\\c-1.png",
+      "SourceId": "Rent4u",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\User\\Desktop\\Rent4uWebsite\\Rent4u\\Rent4u\\wwwroot\\",
+      "BasePath": "_content/Rent4u",
+      "RelativePath": "images/c-1#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "2j874ji3rp",
+      "Integrity": "7rYuSbQ5BKlw2IzuTEkB/Vma7LM60pYTgUOvFYXZT4c=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\c-1.png"
+    },
+    {
+      "Identity": "C:\\Users\\User\\Desktop\\Rent4uWebsite\\Rent4u\\Rent4u\\wwwroot\\images\\c-2.png",
+      "SourceId": "Rent4u",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\User\\Desktop\\Rent4uWebsite\\Rent4u\\Rent4u\\wwwroot\\",
+      "BasePath": "_content/Rent4u",
+      "RelativePath": "images/c-2#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "gglgy9gaq7",
+      "Integrity": "YInX/Kx2c87zTFByHXOIz5RWEQEqA6ZfaMWy33ycqaE=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\c-2.png"
+    },
+    {
+      "Identity": "C:\\Users\\User\\Desktop\\Rent4uWebsite\\Rent4u\\Rent4u\\wwwroot\\images\\c-3.png",
+      "SourceId": "Rent4u",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\User\\Desktop\\Rent4uWebsite\\Rent4u\\Rent4u\\wwwroot\\",
+      "BasePath": "_content/Rent4u",
+      "RelativePath": "images/c-3#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "kvkvodmbsh",
+      "Integrity": "kPi/r1G54MPpKnJ2p89eoI6tN6AFB/+Fd8X+BtkOJwQ=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\c-3.png"
+    },
+    {
+      "Identity": "C:\\Users\\User\\Desktop\\Rent4uWebsite\\Rent4u\\Rent4u\\wwwroot\\images\\call.png",
+      "SourceId": "Rent4u",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\User\\Desktop\\Rent4uWebsite\\Rent4u\\Rent4u\\wwwroot\\",
+      "BasePath": "_content/Rent4u",
+      "RelativePath": "images/call#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "sdc7jcqmwj",
+      "Integrity": "cP04XmA72W5FUcn/9uDZBj3W4Psr33uaBvTGkA6Iryw=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\call.png"
+    },
+    {
+      "Identity": "C:\\Users\\User\\Desktop\\Rent4uWebsite\\Rent4u\\Rent4u\\wwwroot\\images\\client-1.png",
+      "SourceId": "Rent4u",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\User\\Desktop\\Rent4uWebsite\\Rent4u\\Rent4u\\wwwroot\\",
+      "BasePath": "_content/Rent4u",
+      "RelativePath": "images/client-1#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "whb2dq78d9",
+      "Integrity": "tOt/RdO62XMShDtsFBVVwJbMZKIf0bdtcKgUyCPFpHw=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\client-1.png"
+    },
+    {
+      "Identity": "C:\\Users\\User\\Desktop\\Rent4uWebsite\\Rent4u\\Rent4u\\wwwroot\\images\\client-1-white.png",
+      "SourceId": "Rent4u",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\User\\Desktop\\Rent4uWebsite\\Rent4u\\Rent4u\\wwwroot\\",
+      "BasePath": "_content/Rent4u",
+      "RelativePath": "images/client-1-white#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "wa55bfyg6f",
+      "Integrity": "6K4cgr/rnr3qaLCW+NkGOdJr7lva0JzZFzh0Oftg2bM=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\client-1-white.png"
+    },
+    {
+      "Identity": "C:\\Users\\User\\Desktop\\Rent4uWebsite\\Rent4u\\Rent4u\\wwwroot\\images\\client-2.png",
+      "SourceId": "Rent4u",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\User\\Desktop\\Rent4uWebsite\\Rent4u\\Rent4u\\wwwroot\\",
+      "BasePath": "_content/Rent4u",
+      "RelativePath": "images/client-2#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "8c6btv9rbr",
+      "Integrity": "KKIXuWymqgD2boBH752iwh39p2p4GJtQZv12ed6V4Ug=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\client-2.png"
+    },
+    {
+      "Identity": "C:\\Users\\User\\Desktop\\Rent4uWebsite\\Rent4u\\Rent4u\\wwwroot\\images\\client-2-white.png",
+      "SourceId": "Rent4u",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\User\\Desktop\\Rent4uWebsite\\Rent4u\\Rent4u\\wwwroot\\",
+      "BasePath": "_content/Rent4u",
+      "RelativePath": "images/client-2-white#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "3gbc6sfcx2",
+      "Integrity": "DZUNprA6/ZbfHK8Q0OQwArSlQa5/zgkK54AjtGU9jLA=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\client-2-white.png"
+    },
+    {
+      "Identity": "C:\\Users\\User\\Desktop\\Rent4uWebsite\\Rent4u\\Rent4u\\wwwroot\\images\\contact-bg.jpg",
+      "SourceId": "Rent4u",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\User\\Desktop\\Rent4uWebsite\\Rent4u\\Rent4u\\wwwroot\\",
+      "BasePath": "_content/Rent4u",
+      "RelativePath": "images/contact-bg#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "7udctzo1i3",
+      "Integrity": "8cVVHlSWefaI4TwKOTftS5uTnTfE7rVKDFeZqsm1eJ8=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\contact-bg.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\User\\Desktop\\Rent4uWebsite\\Rent4u\\Rent4u\\wwwroot\\images\\fb.png",
+      "SourceId": "Rent4u",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\User\\Desktop\\Rent4uWebsite\\Rent4u\\Rent4u\\wwwroot\\",
+      "BasePath": "_content/Rent4u",
+      "RelativePath": "images/fb#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "vh636o39se",
+      "Integrity": "XSbDkLWnz7v2iVslNGc1+vmtLHfZN6YE1pxb9ADN7Rg=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\fb.png"
+    },
+    {
+      "Identity": "C:\\Users\\User\\Desktop\\Rent4uWebsite\\Rent4u\\Rent4u\\wwwroot\\images\\hero-img.jpg",
+      "SourceId": "Rent4u",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\User\\Desktop\\Rent4uWebsite\\Rent4u\\Rent4u\\wwwroot\\",
+      "BasePath": "_content/Rent4u",
+      "RelativePath": "images/hero-img#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "ob5u7whbkf",
+      "Integrity": "jNL1Y1MCLgOCC3fu4IPhqBQGUc0A1CLSapYFe8GmpeQ=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\hero-img.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\User\\Desktop\\Rent4uWebsite\\Rent4u\\Rent4u\\wwwroot\\images\\insta.png",
+      "SourceId": "Rent4u",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\User\\Desktop\\Rent4uWebsite\\Rent4u\\Rent4u\\wwwroot\\",
+      "BasePath": "_content/Rent4u",
+      "RelativePath": "images/insta#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "3gxa6wcwmd",
+      "Integrity": "LTKjZxeI7eP3BI2UqxjiVLXy3jqhRyC6uommtjkCPF8=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\insta.png"
+    },
+    {
+      "Identity": "C:\\Users\\User\\Desktop\\Rent4uWebsite\\Rent4u\\Rent4u\\wwwroot\\images\\left-angle.png",
+      "SourceId": "Rent4u",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\User\\Desktop\\Rent4uWebsite\\Rent4u\\Rent4u\\wwwroot\\",
+      "BasePath": "_content/Rent4u",
+      "RelativePath": "images/left-angle#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "j5s9w4ykd8",
+      "Integrity": "x8b/nq+AeRtmvZFs8i/UCxNvJKwbq/abVavnSfiYH9w=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\left-angle.png"
+    },
+    {
+      "Identity": "C:\\Users\\User\\Desktop\\Rent4uWebsite\\Rent4u\\Rent4u\\wwwroot\\images\\left-angle-grey.png",
+      "SourceId": "Rent4u",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\User\\Desktop\\Rent4uWebsite\\Rent4u\\Rent4u\\wwwroot\\",
+      "BasePath": "_content/Rent4u",
+      "RelativePath": "images/left-angle-grey#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "yiqerk1rgq",
+      "Integrity": "NuckQJF4l4TSPKF2VKhjzoxJuBN4dNmAOe8Cn90K4lg=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\left-angle-grey.png"
+    },
+    {
+      "Identity": "C:\\Users\\User\\Desktop\\Rent4uWebsite\\Rent4u\\Rent4u\\wwwroot\\images\\linkedin.png",
+      "SourceId": "Rent4u",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\User\\Desktop\\Rent4uWebsite\\Rent4u\\Rent4u\\wwwroot\\",
+      "BasePath": "_content/Rent4u",
+      "RelativePath": "images/linkedin#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "0z61e6pc77",
+      "Integrity": "jA8up0MsFwhmp5YyVgxPWPngAFEQUSsFSZEn2WXxr3k=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\linkedin.png"
+    },
+    {
+      "Identity": "C:\\Users\\User\\Desktop\\Rent4uWebsite\\Rent4u\\Rent4u\\wwwroot\\images\\location.png",
+      "SourceId": "Rent4u",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\User\\Desktop\\Rent4uWebsite\\Rent4u\\Rent4u\\wwwroot\\",
+      "BasePath": "_content/Rent4u",
+      "RelativePath": "images/location#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "cbibse1rpu",
+      "Integrity": "iGqkqG8EDPqXeH2Flvhryfhm14IIZ6TIO0VC2mYenuw=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\location.png"
+    },
+    {
+      "Identity": "C:\\Users\\User\\Desktop\\Rent4uWebsite\\Rent4u\\Rent4u\\wwwroot\\images\\mail.png",
+      "SourceId": "Rent4u",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\User\\Desktop\\Rent4uWebsite\\Rent4u\\Rent4u\\wwwroot\\",
+      "BasePath": "_content/Rent4u",
+      "RelativePath": "images/mail#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "d8vky6g5w7",
+      "Integrity": "46pFuSawgqyHd+zAebAbiTlJ4DK/EcKFQIpEO7+uTxY=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\mail.png"
+    },
+    {
+      "Identity": "C:\\Users\\User\\Desktop\\Rent4uWebsite\\Rent4u\\Rent4u\\wwwroot\\images\\next.png",
+      "SourceId": "Rent4u",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\User\\Desktop\\Rent4uWebsite\\Rent4u\\Rent4u\\wwwroot\\",
+      "BasePath": "_content/Rent4u",
+      "RelativePath": "images/next#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "pevcrk8d36",
+      "Integrity": "AbUu/3vFTn0tK6tpRt3+Da1Ovjg3mUamttNoRhxvdGE=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\next.png"
+    },
+    {
+      "Identity": "C:\\Users\\User\\Desktop\\Rent4uWebsite\\Rent4u\\Rent4u\\wwwroot\\images\\prev.png",
+      "SourceId": "Rent4u",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\User\\Desktop\\Rent4uWebsite\\Rent4u\\Rent4u\\wwwroot\\",
+      "BasePath": "_content/Rent4u",
+      "RelativePath": "images/prev#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "d8ddv3y9qk",
+      "Integrity": "w7BhZVXIMf7E3NiihiKNR3K5ojznslUlACHFyNpYu14=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\prev.png"
+    },
+    {
+      "Identity": "C:\\Users\\User\\Desktop\\Rent4uWebsite\\Rent4u\\Rent4u\\wwwroot\\images\\r-1.png",
+      "SourceId": "Rent4u",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\User\\Desktop\\Rent4uWebsite\\Rent4u\\Rent4u\\wwwroot\\",
+      "BasePath": "_content/Rent4u",
+      "RelativePath": "images/r-1#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "wvp6d3f3tr",
+      "Integrity": "jJFXb7UR5p5DdmfINuuu8i30jStytz8eiU/GE4eOsk0=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\r-1.png"
+    },
+    {
+      "Identity": "C:\\Users\\User\\Desktop\\Rent4uWebsite\\Rent4u\\Rent4u\\wwwroot\\images\\r-2.png",
+      "SourceId": "Rent4u",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\User\\Desktop\\Rent4uWebsite\\Rent4u\\Rent4u\\wwwroot\\",
+      "BasePath": "_content/Rent4u",
+      "RelativePath": "images/r-2#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "v9ft9jku26",
+      "Integrity": "bXinFxqH3UbIgW8oyjJSZLTdUvrMF+Sg4PRrJQ9GY/c=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\r-2.png"
+    },
+    {
+      "Identity": "C:\\Users\\User\\Desktop\\Rent4uWebsite\\Rent4u\\Rent4u\\wwwroot\\images\\r-3.png",
+      "SourceId": "Rent4u",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\User\\Desktop\\Rent4uWebsite\\Rent4u\\Rent4u\\wwwroot\\",
+      "BasePath": "_content/Rent4u",
+      "RelativePath": "images/r-3#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "spdbe8f3ut",
+      "Integrity": "MLgC4VtVoAx2Dw1MCK+b9GL6Lfjof8aBwvERbwDAVjA=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\r-3.png"
+    },
+    {
+      "Identity": "C:\\Users\\User\\Desktop\\Rent4uWebsite\\Rent4u\\Rent4u\\wwwroot\\images\\r-4.png",
+      "SourceId": "Rent4u",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\User\\Desktop\\Rent4uWebsite\\Rent4u\\Rent4u\\wwwroot\\",
+      "BasePath": "_content/Rent4u",
+      "RelativePath": "images/r-4#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "a9q7xzyrji",
+      "Integrity": "UnK8Z58xt8i/+MOMPelOU+OnShzJlBZX1+Po5V1YPkQ=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\r-4.png"
+    },
+    {
+      "Identity": "C:\\Users\\User\\Desktop\\Rent4uWebsite\\Rent4u\\Rent4u\\wwwroot\\images\\r-5.png",
+      "SourceId": "Rent4u",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\User\\Desktop\\Rent4uWebsite\\Rent4u\\Rent4u\\wwwroot\\",
+      "BasePath": "_content/Rent4u",
+      "RelativePath": "images/r-5#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "spdbe8f3ut",
+      "Integrity": "MLgC4VtVoAx2Dw1MCK+b9GL6Lfjof8aBwvERbwDAVjA=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\r-5.png"
+    },
+    {
+      "Identity": "C:\\Users\\User\\Desktop\\Rent4uWebsite\\Rent4u\\Rent4u\\wwwroot\\images\\r-6.png",
+      "SourceId": "Rent4u",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\User\\Desktop\\Rent4uWebsite\\Rent4u\\Rent4u\\wwwroot\\",
+      "BasePath": "_content/Rent4u",
+      "RelativePath": "images/r-6#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "a9q7xzyrji",
+      "Integrity": "UnK8Z58xt8i/+MOMPelOU+OnShzJlBZX1+Po5V1YPkQ=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\r-6.png"
+    },
+    {
+      "Identity": "C:\\Users\\User\\Desktop\\Rent4uWebsite\\Rent4u\\Rent4u\\wwwroot\\images\\right-angle.png",
+      "SourceId": "Rent4u",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\User\\Desktop\\Rent4uWebsite\\Rent4u\\Rent4u\\wwwroot\\",
+      "BasePath": "_content/Rent4u",
+      "RelativePath": "images/right-angle#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "tcour9s7zk",
+      "Integrity": "M+rZhdOFfRyU0xBVe7xUuyUqPVMa/vDiFcOecFvBq94=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\right-angle.png"
+    },
+    {
+      "Identity": "C:\\Users\\User\\Desktop\\Rent4uWebsite\\Rent4u\\Rent4u\\wwwroot\\images\\right-angle-grey.png",
+      "SourceId": "Rent4u",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\User\\Desktop\\Rent4uWebsite\\Rent4u\\Rent4u\\wwwroot\\",
+      "BasePath": "_content/Rent4u",
+      "RelativePath": "images/right-angle-grey#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "wjha907bp5",
+      "Integrity": "XFDB0GAd4hwc6uFFGPAEHJrxL1HnwMufL6L6VG1qdRk=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\right-angle-grey.png"
+    },
+    {
+      "Identity": "C:\\Users\\User\\Desktop\\Rent4uWebsite\\Rent4u\\Rent4u\\wwwroot\\images\\twitter.png",
+      "SourceId": "Rent4u",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\User\\Desktop\\Rent4uWebsite\\Rent4u\\Rent4u\\wwwroot\\",
+      "BasePath": "_content/Rent4u",
+      "RelativePath": "images/twitter#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "bfy4bxsujx",
+      "Integrity": "R9YUTkPpBINUzDIUC2jwaMwjN7phMXUvB+GM7nhSTi4=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\twitter.png"
+    },
+    {
+      "Identity": "C:\\Users\\User\\Desktop\\Rent4uWebsite\\Rent4u\\Rent4u\\wwwroot\\images\\u-1.png",
+      "SourceId": "Rent4u",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\User\\Desktop\\Rent4uWebsite\\Rent4u\\Rent4u\\wwwroot\\",
+      "BasePath": "_content/Rent4u",
+      "RelativePath": "images/u-1#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "qdcvrjh6bh",
+      "Integrity": "kvgWJ6Z4yDu+mwVFA+ErEFUjYfpEJAcBOUhXUk34h6M=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\u-1.png"
+    },
+    {
+      "Identity": "C:\\Users\\User\\Desktop\\Rent4uWebsite\\Rent4u\\Rent4u\\wwwroot\\images\\u-2.png",
+      "SourceId": "Rent4u",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\User\\Desktop\\Rent4uWebsite\\Rent4u\\Rent4u\\wwwroot\\",
+      "BasePath": "_content/Rent4u",
+      "RelativePath": "images/u-2#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "oucvp3tokq",
+      "Integrity": "0Mf991WT8GU16xjbd7U7ddKz1MaHr4zcEYwpgsUuUC4=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\u-2.png"
+    },
+    {
+      "Identity": "C:\\Users\\User\\Desktop\\Rent4uWebsite\\Rent4u\\Rent4u\\wwwroot\\images\\u-3.png",
+      "SourceId": "Rent4u",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\User\\Desktop\\Rent4uWebsite\\Rent4u\\Rent4u\\wwwroot\\",
+      "BasePath": "_content/Rent4u",
+      "RelativePath": "images/u-3#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "2vtgyv8w6u",
+      "Integrity": "LrnrV/wzgR1TeaKt+CMsKivtoU3Mpi8EZ+qqMeZcFxU=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\u-3.png"
+    },
+    {
+      "Identity": "C:\\Users\\User\\Desktop\\Rent4uWebsite\\Rent4u\\Rent4u\\wwwroot\\images\\u-4.png",
+      "SourceId": "Rent4u",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\User\\Desktop\\Rent4uWebsite\\Rent4u\\Rent4u\\wwwroot\\",
+      "BasePath": "_content/Rent4u",
+      "RelativePath": "images/u-4#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "znm502ghr4",
+      "Integrity": "/4mHARJw+09hMCDr2n63INJAhsEItqnI1juQCOUWKGo=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\u-4.png"
+    },
+    {
+      "Identity": "C:\\Users\\User\\Desktop\\Rent4uWebsite\\Rent4u\\Rent4u\\wwwroot\\images\\us-bg.jpg",
+      "SourceId": "Rent4u",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\User\\Desktop\\Rent4uWebsite\\Rent4u\\Rent4u\\wwwroot\\",
+      "BasePath": "_content/Rent4u",
+      "RelativePath": "images/us-bg#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "y1a2fy5h3i",
+      "Integrity": "Zmak+xsiah8qNMVCvcXmsKApvEg3CBgjDT9blQj8EN0=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\us-bg.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\User\\Desktop\\Rent4uWebsite\\Rent4u\\Rent4u\\wwwroot\\js\\bootstrap.js",
+      "SourceId": "Rent4u",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\User\\Desktop\\Rent4uWebsite\\Rent4u\\Rent4u\\wwwroot\\",
+      "BasePath": "_content/Rent4u",
+      "RelativePath": "js/bootstrap#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "eeo95aoedo",
+      "Integrity": "xnDP4dY2RVpj8J97xzxpbib3xJDci/Lr9DHRLUEpDPA=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js\\bootstrap.js"
+    },
+    {
+      "Identity": "C:\\Users\\User\\Desktop\\Rent4uWebsite\\Rent4u\\Rent4u\\wwwroot\\js\\custom.js",
+      "SourceId": "Rent4u",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\User\\Desktop\\Rent4uWebsite\\Rent4u\\Rent4u\\wwwroot\\",
+      "BasePath": "_content/Rent4u",
+      "RelativePath": "js/custom#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "6hf7qk3lt5",
+      "Integrity": "GuS9EtgrOXUh4xEzbHaMO4I4KBWlqJvIVEBX+ZrmCBM=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js\\custom.js"
+    },
+    {
+      "Identity": "C:\\Users\\User\\Desktop\\Rent4uWebsite\\Rent4u\\Rent4u\\wwwroot\\js\\jquery-3.4.1.min.js",
+      "SourceId": "Rent4u",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\User\\Desktop\\Rent4uWebsite\\Rent4u\\Rent4u\\wwwroot\\",
+      "BasePath": "_content/Rent4u",
+      "RelativePath": "js/jquery-3.4.1.min#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "d6rpaas0a0",
+      "Integrity": "KzgTY92gSfLUmlkDeyKLyGXVH/uXfI9cNUfVwo3kjjo=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js\\jquery-3.4.1.min.js"
+    }
+  ],
+  "Endpoints": [
+    {
+      "Route": "css/bootstrap.css",
+      "AssetFile": "C:\\Users\\User\\Desktop\\Rent4uWebsite\\Rent4u\\Rent4u\\wwwroot\\css\\bootstrap.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "192348"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Nfu23DiRqsrx/6B6vsI0T9vEVKq1M6KgO8+TV363g3s=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 30 Apr 2025 18:17:14 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Nfu23DiRqsrx/6B6vsI0T9vEVKq1M6KgO8+TV363g3s="
+        }
+      ]
+    },
+    {
+      "Route": "css/bootstrap.zuvuklkj3l.css",
+      "AssetFile": "C:\\Users\\User\\Desktop\\Rent4uWebsite\\Rent4u\\Rent4u\\wwwroot\\css\\bootstrap.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "192348"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Nfu23DiRqsrx/6B6vsI0T9vEVKq1M6KgO8+TV363g3s=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 30 Apr 2025 18:17:14 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "zuvuklkj3l"
+        },
+        {
+          "Name": "label",
+          "Value": "css/bootstrap.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Nfu23DiRqsrx/6B6vsI0T9vEVKq1M6KgO8+TV363g3s="
+        }
+      ]
+    },
+    {
+      "Route": "css/responsive.css",
+      "AssetFile": "C:\\Users\\User\\Desktop\\Rent4uWebsite\\Rent4u\\Rent4u\\wwwroot\\css\\responsive.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2843"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"28lNxYHIe4jPRY5rAaDMdqBg+TwgXdyYxdEmmWA4DN8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 30 Apr 2025 18:17:14 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-28lNxYHIe4jPRY5rAaDMdqBg+TwgXdyYxdEmmWA4DN8="
+        }
+      ]
+    },
+    {
+      "Route": "css/responsive.xxyd01a897.css",
+      "AssetFile": "C:\\Users\\User\\Desktop\\Rent4uWebsite\\Rent4u\\Rent4u\\wwwroot\\css\\responsive.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2843"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"28lNxYHIe4jPRY5rAaDMdqBg+TwgXdyYxdEmmWA4DN8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 30 Apr 2025 18:17:14 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "xxyd01a897"
+        },
+        {
+          "Name": "label",
+          "Value": "css/responsive.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-28lNxYHIe4jPRY5rAaDMdqBg+TwgXdyYxdEmmWA4DN8="
+        }
+      ]
+    },
+    {
+      "Route": "css/style.0l29voltsi.css",
+      "AssetFile": "C:\\Users\\User\\Desktop\\Rent4uWebsite\\Rent4u\\Rent4u\\wwwroot\\css\\style.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "22864"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"VOTtaTrL1JN2AGTiaI5HlykwZbxQd9FCqlNNUEA3L1k=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 30 Apr 2025 18:17:14 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "0l29voltsi"
+        },
+        {
+          "Name": "label",
+          "Value": "css/style.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-VOTtaTrL1JN2AGTiaI5HlykwZbxQd9FCqlNNUEA3L1k="
+        }
+      ]
+    },
+    {
+      "Route": "css/style.7bbtk2p873.scss",
+      "AssetFile": "C:\\Users\\User\\Desktop\\Rent4uWebsite\\Rent4u\\Rent4u\\wwwroot\\css\\style.scss",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "17413"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/octet-stream"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"g0roGW+T1IAkmelwCnE9wzsFs3MAqt0EHiNBHN24Vdo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 30 Apr 2025 18:17:14 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "7bbtk2p873"
+        },
+        {
+          "Name": "label",
+          "Value": "css/style.scss"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-g0roGW+T1IAkmelwCnE9wzsFs3MAqt0EHiNBHN24Vdo="
+        }
+      ]
+    },
+    {
+      "Route": "css/style.css",
+      "AssetFile": "C:\\Users\\User\\Desktop\\Rent4uWebsite\\Rent4u\\Rent4u\\wwwroot\\css\\style.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "22864"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"VOTtaTrL1JN2AGTiaI5HlykwZbxQd9FCqlNNUEA3L1k=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 30 Apr 2025 18:17:14 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-VOTtaTrL1JN2AGTiaI5HlykwZbxQd9FCqlNNUEA3L1k="
+        }
+      ]
+    },
+    {
+      "Route": "css/style.css.map",
+      "AssetFile": "C:\\Users\\User\\Desktop\\Rent4uWebsite\\Rent4u\\Rent4u\\wwwroot\\css\\style.css.map",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "18979"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"nQTGboqLfckfGgAzySBhF8rI2X3HdPFH8OYfA/vU0eM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 30 Apr 2025 18:17:14 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-nQTGboqLfckfGgAzySBhF8rI2X3HdPFH8OYfA/vU0eM="
+        }
+      ]
+    },
+    {
+      "Route": "css/style.css.toqeeyfgx5.map",
+      "AssetFile": "C:\\Users\\User\\Desktop\\Rent4uWebsite\\Rent4u\\Rent4u\\wwwroot\\css\\style.css.map",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "18979"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"nQTGboqLfckfGgAzySBhF8rI2X3HdPFH8OYfA/vU0eM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 30 Apr 2025 18:17:14 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "toqeeyfgx5"
+        },
+        {
+          "Name": "label",
+          "Value": "css/style.css.map"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-nQTGboqLfckfGgAzySBhF8rI2X3HdPFH8OYfA/vU0eM="
+        }
+      ]
+    },
+    {
+      "Route": "css/style.scss",
+      "AssetFile": "C:\\Users\\User\\Desktop\\Rent4uWebsite\\Rent4u\\Rent4u\\wwwroot\\css\\style.scss",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "17413"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/octet-stream"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"g0roGW+T1IAkmelwCnE9wzsFs3MAqt0EHiNBHN24Vdo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 30 Apr 2025 18:17:14 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-g0roGW+T1IAkmelwCnE9wzsFs3MAqt0EHiNBHN24Vdo="
+        }
+      ]
+    },
+    {
+      "Route": "images/about-img.png",
+      "AssetFile": "C:\\Users\\User\\Desktop\\Rent4uWebsite\\Rent4u\\Rent4u\\wwwroot\\images\\about-img.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "134742"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"i5U6AsWbDV5VFisWpQNw8I7W9NhRbiruYQSXS0dRyP4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 30 Apr 2025 18:17:14 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-i5U6AsWbDV5VFisWpQNw8I7W9NhRbiruYQSXS0dRyP4="
+        }
+      ]
+    },
+    {
+      "Route": "images/about-img.vbyztkj3wr.png",
+      "AssetFile": "C:\\Users\\User\\Desktop\\Rent4uWebsite\\Rent4u\\Rent4u\\wwwroot\\images\\about-img.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "134742"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"i5U6AsWbDV5VFisWpQNw8I7W9NhRbiruYQSXS0dRyP4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 30 Apr 2025 18:17:14 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "vbyztkj3wr"
+        },
+        {
+          "Name": "label",
+          "Value": "images/about-img.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-i5U6AsWbDV5VFisWpQNw8I7W9NhRbiruYQSXS0dRyP4="
+        }
+      ]
+    },
+    {
+      "Route": "images/b-1.1y13x6vk28.jpg",
+      "AssetFile": "C:\\Users\\User\\Desktop\\Rent4uWebsite\\Rent4u\\Rent4u\\wwwroot\\images\\b-1.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "64148"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"mbVhXydXRllmdQTxbiM+7czRmR8b6zCwf6v5arnMhQ4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 30 Apr 2025 18:17:14 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "1y13x6vk28"
+        },
+        {
+          "Name": "label",
+          "Value": "images/b-1.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-mbVhXydXRllmdQTxbiM+7czRmR8b6zCwf6v5arnMhQ4="
+        }
+      ]
+    },
+    {
+      "Route": "images/b-1.jpg",
+      "AssetFile": "C:\\Users\\User\\Desktop\\Rent4uWebsite\\Rent4u\\Rent4u\\wwwroot\\images\\b-1.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "64148"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"mbVhXydXRllmdQTxbiM+7czRmR8b6zCwf6v5arnMhQ4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 30 Apr 2025 18:17:14 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-mbVhXydXRllmdQTxbiM+7czRmR8b6zCwf6v5arnMhQ4="
+        }
+      ]
+    },
+    {
+      "Route": "images/b-2.bmxg42i6mu.jpg",
+      "AssetFile": "C:\\Users\\User\\Desktop\\Rent4uWebsite\\Rent4u\\Rent4u\\wwwroot\\images\\b-2.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "81293"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"M3q6SiEjXylt9WrYMfW4HUQSoLmmhS/xlFmpzajEDxg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 30 Apr 2025 18:17:14 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "bmxg42i6mu"
+        },
+        {
+          "Name": "label",
+          "Value": "images/b-2.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-M3q6SiEjXylt9WrYMfW4HUQSoLmmhS/xlFmpzajEDxg="
+        }
+      ]
+    },
+    {
+      "Route": "images/b-2.jpg",
+      "AssetFile": "C:\\Users\\User\\Desktop\\Rent4uWebsite\\Rent4u\\Rent4u\\wwwroot\\images\\b-2.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "81293"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"M3q6SiEjXylt9WrYMfW4HUQSoLmmhS/xlFmpzajEDxg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 30 Apr 2025 18:17:14 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-M3q6SiEjXylt9WrYMfW4HUQSoLmmhS/xlFmpzajEDxg="
+        }
+      ]
+    },
+    {
+      "Route": "images/b-3.1hylg2dxmq.jpg",
+      "AssetFile": "C:\\Users\\User\\Desktop\\Rent4uWebsite\\Rent4u\\Rent4u\\wwwroot\\images\\b-3.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "55895"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"O/ZIjFqgKOGoEGCw32Egm7qnjsq8jgKxsoM/A7zykb4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 30 Apr 2025 18:17:14 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "1hylg2dxmq"
+        },
+        {
+          "Name": "label",
+          "Value": "images/b-3.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-O/ZIjFqgKOGoEGCw32Egm7qnjsq8jgKxsoM/A7zykb4="
+        }
+      ]
+    },
+    {
+      "Route": "images/b-3.jpg",
+      "AssetFile": "C:\\Users\\User\\Desktop\\Rent4uWebsite\\Rent4u\\Rent4u\\wwwroot\\images\\b-3.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "55895"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"O/ZIjFqgKOGoEGCw32Egm7qnjsq8jgKxsoM/A7zykb4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 30 Apr 2025 18:17:14 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-O/ZIjFqgKOGoEGCw32Egm7qnjsq8jgKxsoM/A7zykb4="
+        }
+      ]
+    },
+    {
+      "Route": "images/book-car.hckuoef4kh.png",
+      "AssetFile": "C:\\Users\\User\\Desktop\\Rent4uWebsite\\Rent4u\\Rent4u\\wwwroot\\images\\book-car.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "27366"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"fz0b6GMpxcmUfmkgTyfGXJShRIkkKDjYGhka5CUsQvI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 30 Apr 2025 18:17:14 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "hckuoef4kh"
+        },
+        {
+          "Name": "label",
+          "Value": "images/book-car.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-fz0b6GMpxcmUfmkgTyfGXJShRIkkKDjYGhka5CUsQvI="
+        }
+      ]
+    },
+    {
+      "Route": "images/book-car.png",
+      "AssetFile": "C:\\Users\\User\\Desktop\\Rent4uWebsite\\Rent4u\\Rent4u\\wwwroot\\images\\book-car.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "27366"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"fz0b6GMpxcmUfmkgTyfGXJShRIkkKDjYGhka5CUsQvI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 30 Apr 2025 18:17:14 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-fz0b6GMpxcmUfmkgTyfGXJShRIkkKDjYGhka5CUsQvI="
+        }
+      ]
+    },
+    {
+      "Route": "images/c-1.2j874ji3rp.png",
+      "AssetFile": "C:\\Users\\User\\Desktop\\Rent4uWebsite\\Rent4u\\Rent4u\\wwwroot\\images\\c-1.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "16828"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"7rYuSbQ5BKlw2IzuTEkB/Vma7LM60pYTgUOvFYXZT4c=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 30 Apr 2025 18:17:14 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "2j874ji3rp"
+        },
+        {
+          "Name": "label",
+          "Value": "images/c-1.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-7rYuSbQ5BKlw2IzuTEkB/Vma7LM60pYTgUOvFYXZT4c="
+        }
+      ]
+    },
+    {
+      "Route": "images/c-1.png",
+      "AssetFile": "C:\\Users\\User\\Desktop\\Rent4uWebsite\\Rent4u\\Rent4u\\wwwroot\\images\\c-1.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "16828"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"7rYuSbQ5BKlw2IzuTEkB/Vma7LM60pYTgUOvFYXZT4c=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 30 Apr 2025 18:17:14 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-7rYuSbQ5BKlw2IzuTEkB/Vma7LM60pYTgUOvFYXZT4c="
+        }
+      ]
+    },
+    {
+      "Route": "images/c-2.gglgy9gaq7.png",
+      "AssetFile": "C:\\Users\\User\\Desktop\\Rent4uWebsite\\Rent4u\\Rent4u\\wwwroot\\images\\c-2.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "15172"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"YInX/Kx2c87zTFByHXOIz5RWEQEqA6ZfaMWy33ycqaE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 30 Apr 2025 18:17:14 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "gglgy9gaq7"
+        },
+        {
+          "Name": "label",
+          "Value": "images/c-2.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-YInX/Kx2c87zTFByHXOIz5RWEQEqA6ZfaMWy33ycqaE="
+        }
+      ]
+    },
+    {
+      "Route": "images/c-2.png",
+      "AssetFile": "C:\\Users\\User\\Desktop\\Rent4uWebsite\\Rent4u\\Rent4u\\wwwroot\\images\\c-2.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "15172"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"YInX/Kx2c87zTFByHXOIz5RWEQEqA6ZfaMWy33ycqaE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 30 Apr 2025 18:17:14 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-YInX/Kx2c87zTFByHXOIz5RWEQEqA6ZfaMWy33ycqaE="
+        }
+      ]
+    },
+    {
+      "Route": "images/c-3.kvkvodmbsh.png",
+      "AssetFile": "C:\\Users\\User\\Desktop\\Rent4uWebsite\\Rent4u\\Rent4u\\wwwroot\\images\\c-3.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "17941"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"kPi/r1G54MPpKnJ2p89eoI6tN6AFB/+Fd8X+BtkOJwQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 30 Apr 2025 18:17:14 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "kvkvodmbsh"
+        },
+        {
+          "Name": "label",
+          "Value": "images/c-3.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-kPi/r1G54MPpKnJ2p89eoI6tN6AFB/+Fd8X+BtkOJwQ="
+        }
+      ]
+    },
+    {
+      "Route": "images/c-3.png",
+      "AssetFile": "C:\\Users\\User\\Desktop\\Rent4uWebsite\\Rent4u\\Rent4u\\wwwroot\\images\\c-3.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "17941"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"kPi/r1G54MPpKnJ2p89eoI6tN6AFB/+Fd8X+BtkOJwQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 30 Apr 2025 18:17:14 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-kPi/r1G54MPpKnJ2p89eoI6tN6AFB/+Fd8X+BtkOJwQ="
+        }
+      ]
+    },
+    {
+      "Route": "images/call.png",
+      "AssetFile": "C:\\Users\\User\\Desktop\\Rent4uWebsite\\Rent4u\\Rent4u\\wwwroot\\images\\call.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1808"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"cP04XmA72W5FUcn/9uDZBj3W4Psr33uaBvTGkA6Iryw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 30 Apr 2025 18:17:14 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-cP04XmA72W5FUcn/9uDZBj3W4Psr33uaBvTGkA6Iryw="
+        }
+      ]
+    },
+    {
+      "Route": "images/call.sdc7jcqmwj.png",
+      "AssetFile": "C:\\Users\\User\\Desktop\\Rent4uWebsite\\Rent4u\\Rent4u\\wwwroot\\images\\call.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1808"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"cP04XmA72W5FUcn/9uDZBj3W4Psr33uaBvTGkA6Iryw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 30 Apr 2025 18:17:14 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "sdc7jcqmwj"
+        },
+        {
+          "Name": "label",
+          "Value": "images/call.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-cP04XmA72W5FUcn/9uDZBj3W4Psr33uaBvTGkA6Iryw="
+        }
+      ]
+    },
+    {
+      "Route": "images/client-1.png",
+      "AssetFile": "C:\\Users\\User\\Desktop\\Rent4uWebsite\\Rent4u\\Rent4u\\wwwroot\\images\\client-1.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "355"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"tOt/RdO62XMShDtsFBVVwJbMZKIf0bdtcKgUyCPFpHw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 30 Apr 2025 18:17:14 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-tOt/RdO62XMShDtsFBVVwJbMZKIf0bdtcKgUyCPFpHw="
+        }
+      ]
+    },
+    {
+      "Route": "images/client-1.whb2dq78d9.png",
+      "AssetFile": "C:\\Users\\User\\Desktop\\Rent4uWebsite\\Rent4u\\Rent4u\\wwwroot\\images\\client-1.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "355"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"tOt/RdO62XMShDtsFBVVwJbMZKIf0bdtcKgUyCPFpHw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 30 Apr 2025 18:17:14 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "whb2dq78d9"
+        },
+        {
+          "Name": "label",
+          "Value": "images/client-1.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-tOt/RdO62XMShDtsFBVVwJbMZKIf0bdtcKgUyCPFpHw="
+        }
+      ]
+    },
+    {
+      "Route": "images/client-1-white.png",
+      "AssetFile": "C:\\Users\\User\\Desktop\\Rent4uWebsite\\Rent4u\\Rent4u\\wwwroot\\images\\client-1-white.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "300"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"6K4cgr/rnr3qaLCW+NkGOdJr7lva0JzZFzh0Oftg2bM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 30 Apr 2025 18:17:14 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-6K4cgr/rnr3qaLCW+NkGOdJr7lva0JzZFzh0Oftg2bM="
+        }
+      ]
+    },
+    {
+      "Route": "images/client-1-white.wa55bfyg6f.png",
+      "AssetFile": "C:\\Users\\User\\Desktop\\Rent4uWebsite\\Rent4u\\Rent4u\\wwwroot\\images\\client-1-white.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "300"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"6K4cgr/rnr3qaLCW+NkGOdJr7lva0JzZFzh0Oftg2bM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 30 Apr 2025 18:17:14 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "wa55bfyg6f"
+        },
+        {
+          "Name": "label",
+          "Value": "images/client-1-white.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-6K4cgr/rnr3qaLCW+NkGOdJr7lva0JzZFzh0Oftg2bM="
+        }
+      ]
+    },
+    {
+      "Route": "images/client-2.8c6btv9rbr.png",
+      "AssetFile": "C:\\Users\\User\\Desktop\\Rent4uWebsite\\Rent4u\\Rent4u\\wwwroot\\images\\client-2.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "446"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"KKIXuWymqgD2boBH752iwh39p2p4GJtQZv12ed6V4Ug=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 30 Apr 2025 18:17:14 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "8c6btv9rbr"
+        },
+        {
+          "Name": "label",
+          "Value": "images/client-2.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-KKIXuWymqgD2boBH752iwh39p2p4GJtQZv12ed6V4Ug="
+        }
+      ]
+    },
+    {
+      "Route": "images/client-2.png",
+      "AssetFile": "C:\\Users\\User\\Desktop\\Rent4uWebsite\\Rent4u\\Rent4u\\wwwroot\\images\\client-2.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "446"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"KKIXuWymqgD2boBH752iwh39p2p4GJtQZv12ed6V4Ug=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 30 Apr 2025 18:17:14 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-KKIXuWymqgD2boBH752iwh39p2p4GJtQZv12ed6V4Ug="
+        }
+      ]
+    },
+    {
+      "Route": "images/client-2-white.3gbc6sfcx2.png",
+      "AssetFile": "C:\\Users\\User\\Desktop\\Rent4uWebsite\\Rent4u\\Rent4u\\wwwroot\\images\\client-2-white.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "351"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"DZUNprA6/ZbfHK8Q0OQwArSlQa5/zgkK54AjtGU9jLA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 30 Apr 2025 18:17:14 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "3gbc6sfcx2"
+        },
+        {
+          "Name": "label",
+          "Value": "images/client-2-white.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-DZUNprA6/ZbfHK8Q0OQwArSlQa5/zgkK54AjtGU9jLA="
+        }
+      ]
+    },
+    {
+      "Route": "images/client-2-white.png",
+      "AssetFile": "C:\\Users\\User\\Desktop\\Rent4uWebsite\\Rent4u\\Rent4u\\wwwroot\\images\\client-2-white.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "351"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"DZUNprA6/ZbfHK8Q0OQwArSlQa5/zgkK54AjtGU9jLA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 30 Apr 2025 18:17:14 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-DZUNprA6/ZbfHK8Q0OQwArSlQa5/zgkK54AjtGU9jLA="
+        }
+      ]
+    },
+    {
+      "Route": "images/contact-bg.7udctzo1i3.jpg",
+      "AssetFile": "C:\\Users\\User\\Desktop\\Rent4uWebsite\\Rent4u\\Rent4u\\wwwroot\\images\\contact-bg.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "63719"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"8cVVHlSWefaI4TwKOTftS5uTnTfE7rVKDFeZqsm1eJ8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 30 Apr 2025 18:17:14 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "7udctzo1i3"
+        },
+        {
+          "Name": "label",
+          "Value": "images/contact-bg.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-8cVVHlSWefaI4TwKOTftS5uTnTfE7rVKDFeZqsm1eJ8="
+        }
+      ]
+    },
+    {
+      "Route": "images/contact-bg.jpg",
+      "AssetFile": "C:\\Users\\User\\Desktop\\Rent4uWebsite\\Rent4u\\Rent4u\\wwwroot\\images\\contact-bg.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "63719"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"8cVVHlSWefaI4TwKOTftS5uTnTfE7rVKDFeZqsm1eJ8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 30 Apr 2025 18:17:14 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-8cVVHlSWefaI4TwKOTftS5uTnTfE7rVKDFeZqsm1eJ8="
+        }
+      ]
+    },
+    {
+      "Route": "images/fb.png",
+      "AssetFile": "C:\\Users\\User\\Desktop\\Rent4uWebsite\\Rent4u\\Rent4u\\wwwroot\\images\\fb.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "780"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"XSbDkLWnz7v2iVslNGc1+vmtLHfZN6YE1pxb9ADN7Rg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 30 Apr 2025 18:17:14 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-XSbDkLWnz7v2iVslNGc1+vmtLHfZN6YE1pxb9ADN7Rg="
+        }
+      ]
+    },
+    {
+      "Route": "images/fb.vh636o39se.png",
+      "AssetFile": "C:\\Users\\User\\Desktop\\Rent4uWebsite\\Rent4u\\Rent4u\\wwwroot\\images\\fb.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "780"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"XSbDkLWnz7v2iVslNGc1+vmtLHfZN6YE1pxb9ADN7Rg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 30 Apr 2025 18:17:14 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "vh636o39se"
+        },
+        {
+          "Name": "label",
+          "Value": "images/fb.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-XSbDkLWnz7v2iVslNGc1+vmtLHfZN6YE1pxb9ADN7Rg="
+        }
+      ]
+    },
+    {
+      "Route": "images/hero-img.jpg",
+      "AssetFile": "C:\\Users\\User\\Desktop\\Rent4uWebsite\\Rent4u\\Rent4u\\wwwroot\\images\\hero-img.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "152959"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"jNL1Y1MCLgOCC3fu4IPhqBQGUc0A1CLSapYFe8GmpeQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 30 Apr 2025 18:17:14 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-jNL1Y1MCLgOCC3fu4IPhqBQGUc0A1CLSapYFe8GmpeQ="
+        }
+      ]
+    },
+    {
+      "Route": "images/hero-img.ob5u7whbkf.jpg",
+      "AssetFile": "C:\\Users\\User\\Desktop\\Rent4uWebsite\\Rent4u\\Rent4u\\wwwroot\\images\\hero-img.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "152959"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"jNL1Y1MCLgOCC3fu4IPhqBQGUc0A1CLSapYFe8GmpeQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 30 Apr 2025 18:17:14 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ob5u7whbkf"
+        },
+        {
+          "Name": "label",
+          "Value": "images/hero-img.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-jNL1Y1MCLgOCC3fu4IPhqBQGUc0A1CLSapYFe8GmpeQ="
+        }
+      ]
+    },
+    {
+      "Route": "images/insta.3gxa6wcwmd.png",
+      "AssetFile": "C:\\Users\\User\\Desktop\\Rent4uWebsite\\Rent4u\\Rent4u\\wwwroot\\images\\insta.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1031"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"LTKjZxeI7eP3BI2UqxjiVLXy3jqhRyC6uommtjkCPF8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 30 Apr 2025 18:17:14 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "3gxa6wcwmd"
+        },
+        {
+          "Name": "label",
+          "Value": "images/insta.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-LTKjZxeI7eP3BI2UqxjiVLXy3jqhRyC6uommtjkCPF8="
+        }
+      ]
+    },
+    {
+      "Route": "images/insta.png",
+      "AssetFile": "C:\\Users\\User\\Desktop\\Rent4uWebsite\\Rent4u\\Rent4u\\wwwroot\\images\\insta.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1031"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"LTKjZxeI7eP3BI2UqxjiVLXy3jqhRyC6uommtjkCPF8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 30 Apr 2025 18:17:14 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-LTKjZxeI7eP3BI2UqxjiVLXy3jqhRyC6uommtjkCPF8="
+        }
+      ]
+    },
+    {
+      "Route": "images/left-angle.j5s9w4ykd8.png",
+      "AssetFile": "C:\\Users\\User\\Desktop\\Rent4uWebsite\\Rent4u\\Rent4u\\wwwroot\\images\\left-angle.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "295"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"x8b/nq+AeRtmvZFs8i/UCxNvJKwbq/abVavnSfiYH9w=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 30 Apr 2025 18:17:14 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "j5s9w4ykd8"
+        },
+        {
+          "Name": "label",
+          "Value": "images/left-angle.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-x8b/nq+AeRtmvZFs8i/UCxNvJKwbq/abVavnSfiYH9w="
+        }
+      ]
+    },
+    {
+      "Route": "images/left-angle.png",
+      "AssetFile": "C:\\Users\\User\\Desktop\\Rent4uWebsite\\Rent4u\\Rent4u\\wwwroot\\images\\left-angle.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "295"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"x8b/nq+AeRtmvZFs8i/UCxNvJKwbq/abVavnSfiYH9w=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 30 Apr 2025 18:17:14 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-x8b/nq+AeRtmvZFs8i/UCxNvJKwbq/abVavnSfiYH9w="
+        }
+      ]
+    },
+    {
+      "Route": "images/left-angle-grey.png",
+      "AssetFile": "C:\\Users\\User\\Desktop\\Rent4uWebsite\\Rent4u\\Rent4u\\wwwroot\\images\\left-angle-grey.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "464"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"NuckQJF4l4TSPKF2VKhjzoxJuBN4dNmAOe8Cn90K4lg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 30 Apr 2025 18:17:14 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-NuckQJF4l4TSPKF2VKhjzoxJuBN4dNmAOe8Cn90K4lg="
+        }
+      ]
+    },
+    {
+      "Route": "images/left-angle-grey.yiqerk1rgq.png",
+      "AssetFile": "C:\\Users\\User\\Desktop\\Rent4uWebsite\\Rent4u\\Rent4u\\wwwroot\\images\\left-angle-grey.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "464"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"NuckQJF4l4TSPKF2VKhjzoxJuBN4dNmAOe8Cn90K4lg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 30 Apr 2025 18:17:14 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "yiqerk1rgq"
+        },
+        {
+          "Name": "label",
+          "Value": "images/left-angle-grey.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-NuckQJF4l4TSPKF2VKhjzoxJuBN4dNmAOe8Cn90K4lg="
+        }
+      ]
+    },
+    {
+      "Route": "images/linkedin.0z61e6pc77.png",
+      "AssetFile": "C:\\Users\\User\\Desktop\\Rent4uWebsite\\Rent4u\\Rent4u\\wwwroot\\images\\linkedin.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "923"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"jA8up0MsFwhmp5YyVgxPWPngAFEQUSsFSZEn2WXxr3k=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 30 Apr 2025 18:17:15 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "0z61e6pc77"
+        },
+        {
+          "Name": "label",
+          "Value": "images/linkedin.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-jA8up0MsFwhmp5YyVgxPWPngAFEQUSsFSZEn2WXxr3k="
+        }
+      ]
+    },
+    {
+      "Route": "images/linkedin.png",
+      "AssetFile": "C:\\Users\\User\\Desktop\\Rent4uWebsite\\Rent4u\\Rent4u\\wwwroot\\images\\linkedin.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "923"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"jA8up0MsFwhmp5YyVgxPWPngAFEQUSsFSZEn2WXxr3k=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 30 Apr 2025 18:17:15 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-jA8up0MsFwhmp5YyVgxPWPngAFEQUSsFSZEn2WXxr3k="
+        }
+      ]
+    },
+    {
+      "Route": "images/location.cbibse1rpu.png",
+      "AssetFile": "C:\\Users\\User\\Desktop\\Rent4uWebsite\\Rent4u\\Rent4u\\wwwroot\\images\\location.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1985"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"iGqkqG8EDPqXeH2Flvhryfhm14IIZ6TIO0VC2mYenuw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 30 Apr 2025 18:17:15 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "cbibse1rpu"
+        },
+        {
+          "Name": "label",
+          "Value": "images/location.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-iGqkqG8EDPqXeH2Flvhryfhm14IIZ6TIO0VC2mYenuw="
+        }
+      ]
+    },
+    {
+      "Route": "images/location.png",
+      "AssetFile": "C:\\Users\\User\\Desktop\\Rent4uWebsite\\Rent4u\\Rent4u\\wwwroot\\images\\location.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1985"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"iGqkqG8EDPqXeH2Flvhryfhm14IIZ6TIO0VC2mYenuw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 30 Apr 2025 18:17:15 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-iGqkqG8EDPqXeH2Flvhryfhm14IIZ6TIO0VC2mYenuw="
+        }
+      ]
+    },
+    {
+      "Route": "images/mail.d8vky6g5w7.png",
+      "AssetFile": "C:\\Users\\User\\Desktop\\Rent4uWebsite\\Rent4u\\Rent4u\\wwwroot\\images\\mail.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1946"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"46pFuSawgqyHd+zAebAbiTlJ4DK/EcKFQIpEO7+uTxY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 30 Apr 2025 18:17:15 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "d8vky6g5w7"
+        },
+        {
+          "Name": "label",
+          "Value": "images/mail.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-46pFuSawgqyHd+zAebAbiTlJ4DK/EcKFQIpEO7+uTxY="
+        }
+      ]
+    },
+    {
+      "Route": "images/mail.png",
+      "AssetFile": "C:\\Users\\User\\Desktop\\Rent4uWebsite\\Rent4u\\Rent4u\\wwwroot\\images\\mail.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1946"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"46pFuSawgqyHd+zAebAbiTlJ4DK/EcKFQIpEO7+uTxY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 30 Apr 2025 18:17:15 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-46pFuSawgqyHd+zAebAbiTlJ4DK/EcKFQIpEO7+uTxY="
+        }
+      ]
+    },
+    {
+      "Route": "images/next.pevcrk8d36.png",
+      "AssetFile": "C:\\Users\\User\\Desktop\\Rent4uWebsite\\Rent4u\\Rent4u\\wwwroot\\images\\next.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "187"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"AbUu/3vFTn0tK6tpRt3+Da1Ovjg3mUamttNoRhxvdGE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 30 Apr 2025 18:17:15 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "pevcrk8d36"
+        },
+        {
+          "Name": "label",
+          "Value": "images/next.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-AbUu/3vFTn0tK6tpRt3+Da1Ovjg3mUamttNoRhxvdGE="
+        }
+      ]
+    },
+    {
+      "Route": "images/next.png",
+      "AssetFile": "C:\\Users\\User\\Desktop\\Rent4uWebsite\\Rent4u\\Rent4u\\wwwroot\\images\\next.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "187"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"AbUu/3vFTn0tK6tpRt3+Da1Ovjg3mUamttNoRhxvdGE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 30 Apr 2025 18:17:15 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-AbUu/3vFTn0tK6tpRt3+Da1Ovjg3mUamttNoRhxvdGE="
+        }
+      ]
+    },
+    {
+      "Route": "images/prev.d8ddv3y9qk.png",
+      "AssetFile": "C:\\Users\\User\\Desktop\\Rent4uWebsite\\Rent4u\\Rent4u\\wwwroot\\images\\prev.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "158"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"w7BhZVXIMf7E3NiihiKNR3K5ojznslUlACHFyNpYu14=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 30 Apr 2025 18:17:15 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "d8ddv3y9qk"
+        },
+        {
+          "Name": "label",
+          "Value": "images/prev.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-w7BhZVXIMf7E3NiihiKNR3K5ojznslUlACHFyNpYu14="
+        }
+      ]
+    },
+    {
+      "Route": "images/prev.png",
+      "AssetFile": "C:\\Users\\User\\Desktop\\Rent4uWebsite\\Rent4u\\Rent4u\\wwwroot\\images\\prev.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "158"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"w7BhZVXIMf7E3NiihiKNR3K5ojznslUlACHFyNpYu14=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 30 Apr 2025 18:17:15 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-w7BhZVXIMf7E3NiihiKNR3K5ojznslUlACHFyNpYu14="
+        }
+      ]
+    },
+    {
+      "Route": "images/r-1.png",
+      "AssetFile": "C:\\Users\\User\\Desktop\\Rent4uWebsite\\Rent4u\\Rent4u\\wwwroot\\images\\r-1.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "14553"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"jJFXb7UR5p5DdmfINuuu8i30jStytz8eiU/GE4eOsk0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 30 Apr 2025 18:17:15 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-jJFXb7UR5p5DdmfINuuu8i30jStytz8eiU/GE4eOsk0="
+        }
+      ]
+    },
+    {
+      "Route": "images/r-1.wvp6d3f3tr.png",
+      "AssetFile": "C:\\Users\\User\\Desktop\\Rent4uWebsite\\Rent4u\\Rent4u\\wwwroot\\images\\r-1.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "14553"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"jJFXb7UR5p5DdmfINuuu8i30jStytz8eiU/GE4eOsk0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 30 Apr 2025 18:17:15 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "wvp6d3f3tr"
+        },
+        {
+          "Name": "label",
+          "Value": "images/r-1.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-jJFXb7UR5p5DdmfINuuu8i30jStytz8eiU/GE4eOsk0="
+        }
+      ]
+    },
+    {
+      "Route": "images/r-2.png",
+      "AssetFile": "C:\\Users\\User\\Desktop\\Rent4uWebsite\\Rent4u\\Rent4u\\wwwroot\\images\\r-2.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "16453"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"bXinFxqH3UbIgW8oyjJSZLTdUvrMF+Sg4PRrJQ9GY/c=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 30 Apr 2025 18:17:15 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-bXinFxqH3UbIgW8oyjJSZLTdUvrMF+Sg4PRrJQ9GY/c="
+        }
+      ]
+    },
+    {
+      "Route": "images/r-2.v9ft9jku26.png",
+      "AssetFile": "C:\\Users\\User\\Desktop\\Rent4uWebsite\\Rent4u\\Rent4u\\wwwroot\\images\\r-2.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "16453"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"bXinFxqH3UbIgW8oyjJSZLTdUvrMF+Sg4PRrJQ9GY/c=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 30 Apr 2025 18:17:15 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "v9ft9jku26"
+        },
+        {
+          "Name": "label",
+          "Value": "images/r-2.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-bXinFxqH3UbIgW8oyjJSZLTdUvrMF+Sg4PRrJQ9GY/c="
+        }
+      ]
+    },
+    {
+      "Route": "images/r-3.png",
+      "AssetFile": "C:\\Users\\User\\Desktop\\Rent4uWebsite\\Rent4u\\Rent4u\\wwwroot\\images\\r-3.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "18235"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"MLgC4VtVoAx2Dw1MCK+b9GL6Lfjof8aBwvERbwDAVjA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 30 Apr 2025 18:17:15 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-MLgC4VtVoAx2Dw1MCK+b9GL6Lfjof8aBwvERbwDAVjA="
+        }
+      ]
+    },
+    {
+      "Route": "images/r-3.spdbe8f3ut.png",
+      "AssetFile": "C:\\Users\\User\\Desktop\\Rent4uWebsite\\Rent4u\\Rent4u\\wwwroot\\images\\r-3.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "18235"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"MLgC4VtVoAx2Dw1MCK+b9GL6Lfjof8aBwvERbwDAVjA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 30 Apr 2025 18:17:15 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "spdbe8f3ut"
+        },
+        {
+          "Name": "label",
+          "Value": "images/r-3.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-MLgC4VtVoAx2Dw1MCK+b9GL6Lfjof8aBwvERbwDAVjA="
+        }
+      ]
+    },
+    {
+      "Route": "images/r-4.a9q7xzyrji.png",
+      "AssetFile": "C:\\Users\\User\\Desktop\\Rent4uWebsite\\Rent4u\\Rent4u\\wwwroot\\images\\r-4.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "15541"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"UnK8Z58xt8i/+MOMPelOU+OnShzJlBZX1+Po5V1YPkQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 30 Apr 2025 18:17:15 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "a9q7xzyrji"
+        },
+        {
+          "Name": "label",
+          "Value": "images/r-4.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-UnK8Z58xt8i/+MOMPelOU+OnShzJlBZX1+Po5V1YPkQ="
+        }
+      ]
+    },
+    {
+      "Route": "images/r-4.png",
+      "AssetFile": "C:\\Users\\User\\Desktop\\Rent4uWebsite\\Rent4u\\Rent4u\\wwwroot\\images\\r-4.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "15541"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"UnK8Z58xt8i/+MOMPelOU+OnShzJlBZX1+Po5V1YPkQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 30 Apr 2025 18:17:15 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-UnK8Z58xt8i/+MOMPelOU+OnShzJlBZX1+Po5V1YPkQ="
+        }
+      ]
+    },
+    {
+      "Route": "images/r-5.png",
+      "AssetFile": "C:\\Users\\User\\Desktop\\Rent4uWebsite\\Rent4u\\Rent4u\\wwwroot\\images\\r-5.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "18235"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"MLgC4VtVoAx2Dw1MCK+b9GL6Lfjof8aBwvERbwDAVjA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 30 Apr 2025 18:17:15 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-MLgC4VtVoAx2Dw1MCK+b9GL6Lfjof8aBwvERbwDAVjA="
+        }
+      ]
+    },
+    {
+      "Route": "images/r-5.spdbe8f3ut.png",
+      "AssetFile": "C:\\Users\\User\\Desktop\\Rent4uWebsite\\Rent4u\\Rent4u\\wwwroot\\images\\r-5.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "18235"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"MLgC4VtVoAx2Dw1MCK+b9GL6Lfjof8aBwvERbwDAVjA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 30 Apr 2025 18:17:15 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "spdbe8f3ut"
+        },
+        {
+          "Name": "label",
+          "Value": "images/r-5.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-MLgC4VtVoAx2Dw1MCK+b9GL6Lfjof8aBwvERbwDAVjA="
+        }
+      ]
+    },
+    {
+      "Route": "images/r-6.a9q7xzyrji.png",
+      "AssetFile": "C:\\Users\\User\\Desktop\\Rent4uWebsite\\Rent4u\\Rent4u\\wwwroot\\images\\r-6.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "15541"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"UnK8Z58xt8i/+MOMPelOU+OnShzJlBZX1+Po5V1YPkQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 30 Apr 2025 18:17:15 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "a9q7xzyrji"
+        },
+        {
+          "Name": "label",
+          "Value": "images/r-6.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-UnK8Z58xt8i/+MOMPelOU+OnShzJlBZX1+Po5V1YPkQ="
+        }
+      ]
+    },
+    {
+      "Route": "images/r-6.png",
+      "AssetFile": "C:\\Users\\User\\Desktop\\Rent4uWebsite\\Rent4u\\Rent4u\\wwwroot\\images\\r-6.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "15541"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"UnK8Z58xt8i/+MOMPelOU+OnShzJlBZX1+Po5V1YPkQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 30 Apr 2025 18:17:15 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-UnK8Z58xt8i/+MOMPelOU+OnShzJlBZX1+Po5V1YPkQ="
+        }
+      ]
+    },
+    {
+      "Route": "images/right-angle.png",
+      "AssetFile": "C:\\Users\\User\\Desktop\\Rent4uWebsite\\Rent4u\\Rent4u\\wwwroot\\images\\right-angle.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "284"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"M+rZhdOFfRyU0xBVe7xUuyUqPVMa/vDiFcOecFvBq94=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 30 Apr 2025 18:17:15 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-M+rZhdOFfRyU0xBVe7xUuyUqPVMa/vDiFcOecFvBq94="
+        }
+      ]
+    },
+    {
+      "Route": "images/right-angle.tcour9s7zk.png",
+      "AssetFile": "C:\\Users\\User\\Desktop\\Rent4uWebsite\\Rent4u\\Rent4u\\wwwroot\\images\\right-angle.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "284"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"M+rZhdOFfRyU0xBVe7xUuyUqPVMa/vDiFcOecFvBq94=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 30 Apr 2025 18:17:15 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "tcour9s7zk"
+        },
+        {
+          "Name": "label",
+          "Value": "images/right-angle.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-M+rZhdOFfRyU0xBVe7xUuyUqPVMa/vDiFcOecFvBq94="
+        }
+      ]
+    },
+    {
+      "Route": "images/right-angle-grey.png",
+      "AssetFile": "C:\\Users\\User\\Desktop\\Rent4uWebsite\\Rent4u\\Rent4u\\wwwroot\\images\\right-angle-grey.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "446"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"XFDB0GAd4hwc6uFFGPAEHJrxL1HnwMufL6L6VG1qdRk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 30 Apr 2025 18:17:15 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-XFDB0GAd4hwc6uFFGPAEHJrxL1HnwMufL6L6VG1qdRk="
+        }
+      ]
+    },
+    {
+      "Route": "images/right-angle-grey.wjha907bp5.png",
+      "AssetFile": "C:\\Users\\User\\Desktop\\Rent4uWebsite\\Rent4u\\Rent4u\\wwwroot\\images\\right-angle-grey.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "446"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"XFDB0GAd4hwc6uFFGPAEHJrxL1HnwMufL6L6VG1qdRk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 30 Apr 2025 18:17:15 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "wjha907bp5"
+        },
+        {
+          "Name": "label",
+          "Value": "images/right-angle-grey.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-XFDB0GAd4hwc6uFFGPAEHJrxL1HnwMufL6L6VG1qdRk="
+        }
+      ]
+    },
+    {
+      "Route": "images/twitter.bfy4bxsujx.png",
+      "AssetFile": "C:\\Users\\User\\Desktop\\Rent4uWebsite\\Rent4u\\Rent4u\\wwwroot\\images\\twitter.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "894"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"R9YUTkPpBINUzDIUC2jwaMwjN7phMXUvB+GM7nhSTi4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 30 Apr 2025 18:17:15 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "bfy4bxsujx"
+        },
+        {
+          "Name": "label",
+          "Value": "images/twitter.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-R9YUTkPpBINUzDIUC2jwaMwjN7phMXUvB+GM7nhSTi4="
+        }
+      ]
+    },
+    {
+      "Route": "images/twitter.png",
+      "AssetFile": "C:\\Users\\User\\Desktop\\Rent4uWebsite\\Rent4u\\Rent4u\\wwwroot\\images\\twitter.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "894"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"R9YUTkPpBINUzDIUC2jwaMwjN7phMXUvB+GM7nhSTi4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 30 Apr 2025 18:17:15 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-R9YUTkPpBINUzDIUC2jwaMwjN7phMXUvB+GM7nhSTi4="
+        }
+      ]
+    },
+    {
+      "Route": "images/u-1.png",
+      "AssetFile": "C:\\Users\\User\\Desktop\\Rent4uWebsite\\Rent4u\\Rent4u\\wwwroot\\images\\u-1.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "6012"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"kvgWJ6Z4yDu+mwVFA+ErEFUjYfpEJAcBOUhXUk34h6M=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 30 Apr 2025 18:17:15 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-kvgWJ6Z4yDu+mwVFA+ErEFUjYfpEJAcBOUhXUk34h6M="
+        }
+      ]
+    },
+    {
+      "Route": "images/u-1.qdcvrjh6bh.png",
+      "AssetFile": "C:\\Users\\User\\Desktop\\Rent4uWebsite\\Rent4u\\Rent4u\\wwwroot\\images\\u-1.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "6012"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"kvgWJ6Z4yDu+mwVFA+ErEFUjYfpEJAcBOUhXUk34h6M=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 30 Apr 2025 18:17:15 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "qdcvrjh6bh"
+        },
+        {
+          "Name": "label",
+          "Value": "images/u-1.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-kvgWJ6Z4yDu+mwVFA+ErEFUjYfpEJAcBOUhXUk34h6M="
+        }
+      ]
+    },
+    {
+      "Route": "images/u-2.oucvp3tokq.png",
+      "AssetFile": "C:\\Users\\User\\Desktop\\Rent4uWebsite\\Rent4u\\Rent4u\\wwwroot\\images\\u-2.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "6208"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"0Mf991WT8GU16xjbd7U7ddKz1MaHr4zcEYwpgsUuUC4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 30 Apr 2025 18:17:15 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "oucvp3tokq"
+        },
+        {
+          "Name": "label",
+          "Value": "images/u-2.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-0Mf991WT8GU16xjbd7U7ddKz1MaHr4zcEYwpgsUuUC4="
+        }
+      ]
+    },
+    {
+      "Route": "images/u-2.png",
+      "AssetFile": "C:\\Users\\User\\Desktop\\Rent4uWebsite\\Rent4u\\Rent4u\\wwwroot\\images\\u-2.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "6208"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"0Mf991WT8GU16xjbd7U7ddKz1MaHr4zcEYwpgsUuUC4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 30 Apr 2025 18:17:15 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-0Mf991WT8GU16xjbd7U7ddKz1MaHr4zcEYwpgsUuUC4="
+        }
+      ]
+    },
+    {
+      "Route": "images/u-3.2vtgyv8w6u.png",
+      "AssetFile": "C:\\Users\\User\\Desktop\\Rent4uWebsite\\Rent4u\\Rent4u\\wwwroot\\images\\u-3.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5788"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"LrnrV/wzgR1TeaKt+CMsKivtoU3Mpi8EZ+qqMeZcFxU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 30 Apr 2025 18:17:15 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "2vtgyv8w6u"
+        },
+        {
+          "Name": "label",
+          "Value": "images/u-3.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-LrnrV/wzgR1TeaKt+CMsKivtoU3Mpi8EZ+qqMeZcFxU="
+        }
+      ]
+    },
+    {
+      "Route": "images/u-3.png",
+      "AssetFile": "C:\\Users\\User\\Desktop\\Rent4uWebsite\\Rent4u\\Rent4u\\wwwroot\\images\\u-3.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5788"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"LrnrV/wzgR1TeaKt+CMsKivtoU3Mpi8EZ+qqMeZcFxU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 30 Apr 2025 18:17:15 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-LrnrV/wzgR1TeaKt+CMsKivtoU3Mpi8EZ+qqMeZcFxU="
+        }
+      ]
+    },
+    {
+      "Route": "images/u-4.png",
+      "AssetFile": "C:\\Users\\User\\Desktop\\Rent4uWebsite\\Rent4u\\Rent4u\\wwwroot\\images\\u-4.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "6321"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"/4mHARJw+09hMCDr2n63INJAhsEItqnI1juQCOUWKGo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 30 Apr 2025 18:17:15 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-/4mHARJw+09hMCDr2n63INJAhsEItqnI1juQCOUWKGo="
+        }
+      ]
+    },
+    {
+      "Route": "images/u-4.znm502ghr4.png",
+      "AssetFile": "C:\\Users\\User\\Desktop\\Rent4uWebsite\\Rent4u\\Rent4u\\wwwroot\\images\\u-4.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "6321"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"/4mHARJw+09hMCDr2n63INJAhsEItqnI1juQCOUWKGo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 30 Apr 2025 18:17:15 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "znm502ghr4"
+        },
+        {
+          "Name": "label",
+          "Value": "images/u-4.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-/4mHARJw+09hMCDr2n63INJAhsEItqnI1juQCOUWKGo="
+        }
+      ]
+    },
+    {
+      "Route": "images/us-bg.jpg",
+      "AssetFile": "C:\\Users\\User\\Desktop\\Rent4uWebsite\\Rent4u\\Rent4u\\wwwroot\\images\\us-bg.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "71491"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Zmak+xsiah8qNMVCvcXmsKApvEg3CBgjDT9blQj8EN0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 30 Apr 2025 18:17:15 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Zmak+xsiah8qNMVCvcXmsKApvEg3CBgjDT9blQj8EN0="
+        }
+      ]
+    },
+    {
+      "Route": "images/us-bg.y1a2fy5h3i.jpg",
+      "AssetFile": "C:\\Users\\User\\Desktop\\Rent4uWebsite\\Rent4u\\Rent4u\\wwwroot\\images\\us-bg.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "71491"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Zmak+xsiah8qNMVCvcXmsKApvEg3CBgjDT9blQj8EN0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 30 Apr 2025 18:17:15 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "y1a2fy5h3i"
+        },
+        {
+          "Name": "label",
+          "Value": "images/us-bg.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Zmak+xsiah8qNMVCvcXmsKApvEg3CBgjDT9blQj8EN0="
+        }
+      ]
+    },
+    {
+      "Route": "js/bootstrap.eeo95aoedo.js",
+      "AssetFile": "C:\\Users\\User\\Desktop\\Rent4uWebsite\\Rent4u\\Rent4u\\wwwroot\\js\\bootstrap.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "136747"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"xnDP4dY2RVpj8J97xzxpbib3xJDci/Lr9DHRLUEpDPA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 30 Apr 2025 18:17:15 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "eeo95aoedo"
+        },
+        {
+          "Name": "label",
+          "Value": "js/bootstrap.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-xnDP4dY2RVpj8J97xzxpbib3xJDci/Lr9DHRLUEpDPA="
+        }
+      ]
+    },
+    {
+      "Route": "js/bootstrap.js",
+      "AssetFile": "C:\\Users\\User\\Desktop\\Rent4uWebsite\\Rent4u\\Rent4u\\wwwroot\\js\\bootstrap.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "136747"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"xnDP4dY2RVpj8J97xzxpbib3xJDci/Lr9DHRLUEpDPA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 30 Apr 2025 18:17:15 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-xnDP4dY2RVpj8J97xzxpbib3xJDci/Lr9DHRLUEpDPA="
+        }
+      ]
+    },
+    {
+      "Route": "js/custom.6hf7qk3lt5.js",
+      "AssetFile": "C:\\Users\\User\\Desktop\\Rent4uWebsite\\Rent4u\\Rent4u\\wwwroot\\js\\custom.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "532"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"GuS9EtgrOXUh4xEzbHaMO4I4KBWlqJvIVEBX+ZrmCBM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 30 Apr 2025 18:17:15 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "6hf7qk3lt5"
+        },
+        {
+          "Name": "label",
+          "Value": "js/custom.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-GuS9EtgrOXUh4xEzbHaMO4I4KBWlqJvIVEBX+ZrmCBM="
+        }
+      ]
+    },
+    {
+      "Route": "js/custom.js",
+      "AssetFile": "C:\\Users\\User\\Desktop\\Rent4uWebsite\\Rent4u\\Rent4u\\wwwroot\\js\\custom.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "532"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"GuS9EtgrOXUh4xEzbHaMO4I4KBWlqJvIVEBX+ZrmCBM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 30 Apr 2025 18:17:15 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-GuS9EtgrOXUh4xEzbHaMO4I4KBWlqJvIVEBX+ZrmCBM="
+        }
+      ]
+    },
+    {
+      "Route": "js/jquery-3.4.1.min.d6rpaas0a0.js",
+      "AssetFile": "C:\\Users\\User\\Desktop\\Rent4uWebsite\\Rent4u\\Rent4u\\wwwroot\\js\\jquery-3.4.1.min.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "88145"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"KzgTY92gSfLUmlkDeyKLyGXVH/uXfI9cNUfVwo3kjjo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 30 Apr 2025 18:17:15 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "d6rpaas0a0"
+        },
+        {
+          "Name": "label",
+          "Value": "js/jquery-3.4.1.min.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-KzgTY92gSfLUmlkDeyKLyGXVH/uXfI9cNUfVwo3kjjo="
+        }
+      ]
+    },
+    {
+      "Route": "js/jquery-3.4.1.min.js",
+      "AssetFile": "C:\\Users\\User\\Desktop\\Rent4uWebsite\\Rent4u\\Rent4u\\wwwroot\\js\\jquery-3.4.1.min.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "88145"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"KzgTY92gSfLUmlkDeyKLyGXVH/uXfI9cNUfVwo3kjjo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 30 Apr 2025 18:17:15 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-KzgTY92gSfLUmlkDeyKLyGXVH/uXfI9cNUfVwo3kjjo="
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,209 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\User\\Desktop\\Rent4uWebsite\\Rent4u\\Rent4u\\wwwroot\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\Rent4uWebsite\\Rent4u\\Rent4u\\wwwroot\\css\\responsive.css",
+      "PackagePath": "staticwebassets\\css\\responsive.css"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\Rent4uWebsite\\Rent4u\\Rent4u\\wwwroot\\css\\style.css",
+      "PackagePath": "staticwebassets\\css\\style.css"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\Rent4uWebsite\\Rent4u\\Rent4u\\wwwroot\\css\\style.css.map",
+      "PackagePath": "staticwebassets\\css\\style.css.map"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\Rent4uWebsite\\Rent4u\\Rent4u\\wwwroot\\css\\style.scss",
+      "PackagePath": "staticwebassets\\css\\style.scss"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\Rent4uWebsite\\Rent4u\\Rent4u\\wwwroot\\images\\about-img.png",
+      "PackagePath": "staticwebassets\\images\\about-img.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\Rent4uWebsite\\Rent4u\\Rent4u\\wwwroot\\images\\b-1.jpg",
+      "PackagePath": "staticwebassets\\images\\b-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\Rent4uWebsite\\Rent4u\\Rent4u\\wwwroot\\images\\b-2.jpg",
+      "PackagePath": "staticwebassets\\images\\b-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\Rent4uWebsite\\Rent4u\\Rent4u\\wwwroot\\images\\b-3.jpg",
+      "PackagePath": "staticwebassets\\images\\b-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\Rent4uWebsite\\Rent4u\\Rent4u\\wwwroot\\images\\book-car.png",
+      "PackagePath": "staticwebassets\\images\\book-car.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\Rent4uWebsite\\Rent4u\\Rent4u\\wwwroot\\images\\c-1.png",
+      "PackagePath": "staticwebassets\\images\\c-1.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\Rent4uWebsite\\Rent4u\\Rent4u\\wwwroot\\images\\c-2.png",
+      "PackagePath": "staticwebassets\\images\\c-2.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\Rent4uWebsite\\Rent4u\\Rent4u\\wwwroot\\images\\c-3.png",
+      "PackagePath": "staticwebassets\\images\\c-3.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\Rent4uWebsite\\Rent4u\\Rent4u\\wwwroot\\images\\call.png",
+      "PackagePath": "staticwebassets\\images\\call.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\Rent4uWebsite\\Rent4u\\Rent4u\\wwwroot\\images\\client-1-white.png",
+      "PackagePath": "staticwebassets\\images\\client-1-white.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\Rent4uWebsite\\Rent4u\\Rent4u\\wwwroot\\images\\client-1.png",
+      "PackagePath": "staticwebassets\\images\\client-1.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\Rent4uWebsite\\Rent4u\\Rent4u\\wwwroot\\images\\client-2-white.png",
+      "PackagePath": "staticwebassets\\images\\client-2-white.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\Rent4uWebsite\\Rent4u\\Rent4u\\wwwroot\\images\\client-2.png",
+      "PackagePath": "staticwebassets\\images\\client-2.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\Rent4uWebsite\\Rent4u\\Rent4u\\wwwroot\\images\\contact-bg.jpg",
+      "PackagePath": "staticwebassets\\images\\contact-bg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\Rent4uWebsite\\Rent4u\\Rent4u\\wwwroot\\images\\fb.png",
+      "PackagePath": "staticwebassets\\images\\fb.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\Rent4uWebsite\\Rent4u\\Rent4u\\wwwroot\\images\\hero-img.jpg",
+      "PackagePath": "staticwebassets\\images\\hero-img.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\Rent4uWebsite\\Rent4u\\Rent4u\\wwwroot\\images\\insta.png",
+      "PackagePath": "staticwebassets\\images\\insta.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\Rent4uWebsite\\Rent4u\\Rent4u\\wwwroot\\images\\left-angle-grey.png",
+      "PackagePath": "staticwebassets\\images\\left-angle-grey.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\Rent4uWebsite\\Rent4u\\Rent4u\\wwwroot\\images\\left-angle.png",
+      "PackagePath": "staticwebassets\\images\\left-angle.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\Rent4uWebsite\\Rent4u\\Rent4u\\wwwroot\\images\\linkedin.png",
+      "PackagePath": "staticwebassets\\images\\linkedin.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\Rent4uWebsite\\Rent4u\\Rent4u\\wwwroot\\images\\location.png",
+      "PackagePath": "staticwebassets\\images\\location.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\Rent4uWebsite\\Rent4u\\Rent4u\\wwwroot\\images\\mail.png",
+      "PackagePath": "staticwebassets\\images\\mail.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\Rent4uWebsite\\Rent4u\\Rent4u\\wwwroot\\images\\next.png",
+      "PackagePath": "staticwebassets\\images\\next.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\Rent4uWebsite\\Rent4u\\Rent4u\\wwwroot\\images\\prev.png",
+      "PackagePath": "staticwebassets\\images\\prev.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\Rent4uWebsite\\Rent4u\\Rent4u\\wwwroot\\images\\r-1.png",
+      "PackagePath": "staticwebassets\\images\\r-1.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\Rent4uWebsite\\Rent4u\\Rent4u\\wwwroot\\images\\r-2.png",
+      "PackagePath": "staticwebassets\\images\\r-2.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\Rent4uWebsite\\Rent4u\\Rent4u\\wwwroot\\images\\r-3.png",
+      "PackagePath": "staticwebassets\\images\\r-3.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\Rent4uWebsite\\Rent4u\\Rent4u\\wwwroot\\images\\r-4.png",
+      "PackagePath": "staticwebassets\\images\\r-4.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\Rent4uWebsite\\Rent4u\\Rent4u\\wwwroot\\images\\r-5.png",
+      "PackagePath": "staticwebassets\\images\\r-5.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\Rent4uWebsite\\Rent4u\\Rent4u\\wwwroot\\images\\r-6.png",
+      "PackagePath": "staticwebassets\\images\\r-6.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\Rent4uWebsite\\Rent4u\\Rent4u\\wwwroot\\images\\right-angle-grey.png",
+      "PackagePath": "staticwebassets\\images\\right-angle-grey.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\Rent4uWebsite\\Rent4u\\Rent4u\\wwwroot\\images\\right-angle.png",
+      "PackagePath": "staticwebassets\\images\\right-angle.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\Rent4uWebsite\\Rent4u\\Rent4u\\wwwroot\\images\\twitter.png",
+      "PackagePath": "staticwebassets\\images\\twitter.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\Rent4uWebsite\\Rent4u\\Rent4u\\wwwroot\\images\\u-1.png",
+      "PackagePath": "staticwebassets\\images\\u-1.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\Rent4uWebsite\\Rent4u\\Rent4u\\wwwroot\\images\\u-2.png",
+      "PackagePath": "staticwebassets\\images\\u-2.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\Rent4uWebsite\\Rent4u\\Rent4u\\wwwroot\\images\\u-3.png",
+      "PackagePath": "staticwebassets\\images\\u-3.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\Rent4uWebsite\\Rent4u\\Rent4u\\wwwroot\\images\\u-4.png",
+      "PackagePath": "staticwebassets\\images\\u-4.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\Rent4uWebsite\\Rent4u\\Rent4u\\wwwroot\\images\\us-bg.jpg",
+      "PackagePath": "staticwebassets\\images\\us-bg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\Rent4uWebsite\\Rent4u\\Rent4u\\wwwroot\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\Rent4uWebsite\\Rent4u\\Rent4u\\wwwroot\\js\\custom.js",
+      "PackagePath": "staticwebassets\\js\\custom.js"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\Rent4uWebsite\\Rent4u\\Rent4u\\wwwroot\\js\\jquery-3.4.1.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery-3.4.1.min.js"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.Rent4u.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.Rent4u.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.Rent4u.props",
+      "PackagePath": "build\\Rent4u.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.Rent4u.props",
+      "PackagePath": "buildMultiTargeting\\Rent4u.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.Rent4u.props",
+      "PackagePath": "buildTransitive\\Rent4u.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
